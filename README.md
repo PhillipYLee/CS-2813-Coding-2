@@ -6,14 +6,14 @@
 
 
 ## Input.txt
-``
+
 6 5 \
 0 1 \
 1 2 \
 2 3 \
 3 4 \
 4 5
-``
+
 ## Expected Output
 Reflexive = False
 Symmetric = False
